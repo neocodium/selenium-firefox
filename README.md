@@ -1,0 +1,1 @@
+1. Install geckodriver for Firefox webdriver
